@@ -17,9 +17,9 @@ Glantz Adam Bootcamp RUT-VIRT-DATA-PT-04-2023-U-LOLC-MWTH - Module 11 Data Scrap
 
 This project consists of two related technical tasks. First, the author was instructed to **scrape the titles and preview text from the article entries in [edX's](https://www.edx.org/) _[Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)_ site**. After this, the author was told to **scrape temperature and related data from edX's [_Mars Facts_](https://static.bc-edx.com/data/web/mars_facts/temperature.html) site and analyze it to answer several questions about natural time-related processes on Mars**. *Coding was guided by the DRY ("don't repeat yourself") principle.*
 
-- [Task: Scrape Titles and Preview Text from Mars News](https://courses.bootcampspot.com/courses/3337/assignments/54002?module_item_id=961399)
+- [Task: Scrape Titles and Preview Text from *Mars News*](https://courses.bootcampspot.com/courses/3337/assignments/54002?module_item_id=961399)
 
-FILE: sqlalchemy-challenge_climate.ipynb
+**FILE:** part_1_mars_news.ipynb
 
 The most current data was isolated by finding the last entry (8/23/2017) and working back by 365 days to get a year interval's worth of data. See **Figure 1** below for the resulting plot of precipitation data, which shows considerable volatility in volume over time.
 
@@ -43,9 +43,9 @@ The most active weather station out of the nine by volume of observations was id
 
 **Figure 2** | *Histogram of temperature observations (tobs) from weather station ID USC0051928 between 8/23/2016 through 8/23/2017, with temperature in Fahrenheit*
 
-- [**Design Climate App**](https://courses.bootcampspot.com/courses/3337/assignments/54000?module_item_id=961336)
- 
-FILE: sqlalchemy-challenge_app.py
+- [Task: Scrape and Analyze Mars Weather Data](https://courses.bootcampspot.com/courses/3337/assignments/54002?module_item_id=961399)
+
+**FILE:** part_2_mars_weather.ipynb
 
 **_All the route links to follow assume the user runs the sqlalchemy-challenge_app.py code and employs an open port for Flask output._**
 
