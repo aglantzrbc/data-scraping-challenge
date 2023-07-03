@@ -6,8 +6,8 @@ Glantz Adam Bootcamp RUT-VIRT-DATA-PT-04-2023-U-LOLC-MWTH - Module 11 Data Scrap
 ## TABLE OF CONTENTS
 
 1. Project Description
-   - Analyze and Explore Climate Data
-   - Design Climate App
+   - Task: Scrape Titles and Preview Text from Mars News
+   - Task: Scrape and Analyze Mars Weather Data
 2. Installation
 3. Contributing
 4. Acknowledgements
@@ -15,7 +15,7 @@ Glantz Adam Bootcamp RUT-VIRT-DATA-PT-04-2023-U-LOLC-MWTH - Module 11 Data Scrap
 
 ### 1. PROJECT DESCRIPTION
 
-In this project, the author was tasked with making use of weather and weather station data from the state of Hawaii USA. First, the author was instructed to **analyze and explore climate data** pulled from a preexisting .sqlite file using the SQLAlchemy library of Python, including running summary statistics and creating visualizations via Python's other libraries. Having become familiar with the data, the author was instructed to **design a climate app** using Flask, so that users can access APIs that retrieve weather and weather station data in the form of JSON lists. *Coding was guided by the DRY ("don't repeat yourself") principle.*
+This project consists of two related technical tasks. First, the author was instructed to **scrape the titles and preview text from the article entries in [edX's](https://www.edx.org/) _[Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)_ site**. After this, the author was told to **scrape temperature and related data from edX's [_Mars Facts_](https://static.bc-edx.com/data/web/mars_facts/temperature.html) site and analyze it to answer several questions about natural time-related processes on Mars**. *Coding was guided by the DRY ("don't repeat yourself") principle.*
 
 - [**Analyze and Explore Climate Data**](https://courses.bootcampspot.com/courses/3337/assignments/54000?module_item_id=961336)
 
