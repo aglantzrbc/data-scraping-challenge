@@ -15,7 +15,7 @@ Glantz Adam Bootcamp RUT-VIRT-DATA-PT-04-2023-U-LOLC-MWTH - Module 11 Data Scrap
 
 ### 1. PROJECT DESCRIPTION
 
-This project consists of two related technical tasks related to the exploration of Mars. First, the author was instructed to **scrape the titles and preview text from the article entries in [edX's](https://www.edx.org/) _[Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)_ website**. After this, the author was told to **scrape temperature and related data from edX's [_Mars Facts_](https://static.bc-edx.com/data/web/mars_facts/temperature.html) website and analyze it to answer several questions about natural time-related processes on Mars**. *Coding was guided by the DRY ("don't repeat yourself") principle.*
+This project consists of two related technical tasks related to the exploration of Mars. First, the author was instructed to **scrape the titles and preview text from the article entries in [edX's](https://www.edx.org/) _[Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)_ website**. After this, the author was told to **scrape temperature and related data from edX's [_Mars Temperature Data_](https://static.bc-edx.com/data/web/mars_facts/temperature.html) website and analyze it to answer several questions about natural time-related processes on Mars**. *Coding was guided by the DRY ("don't repeat yourself") principle.*
 
 - [Task: Scrape Titles and Preview Text from *Mars News*](https://courses.bootcampspot.com/courses/3337/assignments/54002?module_item_id=961399)
 
@@ -31,9 +31,19 @@ The *Mars News* website was visited with the assistance of the [Splinter](https:
 
 **FILE:** part_2_mars_weather.ipynb
 
-**_All the route links to follow assume the user runs the sqlalchemy-challenge_app.py code and employs an open port for Flask output._**
+Similarly to the first task, this task started with The *Mars Temperature Data* website visited with the assistance of the Splinter library in Python and the site's code was examined using Google Chrome DevTools in preparation for data scaping. As before, the purpose of the examination was to discover HTML coding elements, such as a particular tag type, or a class or id, that could be use to isolate elements of interest for data scraping. Data scraping itself commenced using the BeautifulSoup library to extract the relevant column headers and the data associated with them by using a unique class value. These elements, shorn of their markup, were tabulated into a DataFrame.
 
-The flask library was employed to create an application object, which was then decorated to make [API routes](http://localhost:5000/).
+Definitions of the column headers are in **Figure 2** and a sampling of the DataFrame is in **Table 1**.
+
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/a99a47ec-2f5a-4d12-9457-6ed836e0c049)
+
+**Figure 2** | *Definitions of the column headers in the* Mars Temperature Data *webpage*
+
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/5048eaac-cfd1-446a-aebe-6886f6ab6bc8)
+
+**Table 2** | *Sampling of the resulting DataFrame of values for each column heade*
+
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/790a7d01-5372-4e02-9e24-300518588575)
 
 **_Though establishing the "Measurement" and "Station" variable names in all lower case (i.e., "measurement" and "station") is ideal, the author didn't do this for the following reasons:_**
 
