@@ -25,9 +25,9 @@ The most current data was isolated by finding the last entry (8/23/2017) and wor
 
 **_Though establishing variables in all lower case is ideal, the author didn't do this for the "Base" variable assigned with "automap_base()", because this is what the SQLAlchemy automap function expects._**
 
-![Precipitation_One_Year_Interval](https://github.com/aglantzrbc/sqlalchemy-challenge/assets/127694342/75d38e23-0307-4104-9c5e-34cf3510294e)
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/51171e03-0b84-4e12-b117-09f776fee8f6)
 
-**Figure 1** | *Plot of precipitation in inches in Hawaii USA from weather station observations between 8/23/2016 through 8/23/2017, with null values dropped*
+**Figure 1** | *Jupyter Notebook output of the articles from* Mars News *as a list of dictionaries, with the keys "title" and "preview"*
 
 Further insight was provided by summary statistics, which can be found in **Table 1** below.
 
