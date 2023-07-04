@@ -101,7 +101,7 @@ This questions was answered using three different inputs:
 - The file for the *Scrape and Analyze Mars Weather Data* task: **part_2_mars_weather.ipynb**
 
 - The [GitHub repository](https://github.com/aglantzrbc/data-scraping-challenge) containing all project files is publicly accessible.
-- The *Resources* subdirectory contains the DataFrame .csv file requested by the instructions, as well as .png versions of all project plots. it is located in the same place as the code files.
+- The *Resources* subdirectory contains the DataFrame *mars_weather_data_dataframe.csv* file requested by the instructions, as well as .png versions of all project plots. it is located in the same place as the code files.
 - The assignment details and starter code are proprietary and located on the [Rutgers University](https://www.rutgers.edu/) ([edX](https://www.edx.org/)) Bootcamp Spot [Module 11 Data Scraping Challenge](https://courses.bootcampspot.com/courses/3337/assignments/54002?module_item_id=961399) page.
 - Both source files use Python version 3.10.9. The project was coded in [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) version 6.5.2.
 
