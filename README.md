@@ -79,7 +79,7 @@ After the column data types were cast into correct categories, the following que
 
 **Figure 5** | *Months corresponding to the minimum and maximum atmospheric pressure on Mars in Pascals, as measured on the surface by the NASA rover* Curiosity, *with the extremes annotated*
 
-5. *How many terrestrial (earth) days are there in a Martian year?* See **Figure 6**, below.
+5. *How many terrestrial (earth) days are there in a Martian year?* See **Figure 6** and **Figure 7**, below.
 
 This questions was answered using three different inputs:
 
@@ -90,6 +90,10 @@ This questions was answered using three different inputs:
 ![mars_days_in_terrestrial_year](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c28c146d-3955-4aac-9be9-2fe9ff621095)
 
 **Figure 6** | *The number of terrestrial days vs. the minimum surface temperature in Celsius on Mars, as measured on the surface by the NASA rover* Curiosity, *with seasonal high temperature points in the middle of the plot noted*
+
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/94606690-1a20-4e98-b12d-9c0bb4b1dbb5)
+
+**Figure 7** | *Code comments from the assignment instructions, for comparison with the author's findings*
 
 ### 2. INSTALLATION
 
