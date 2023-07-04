@@ -115,7 +115,7 @@ In addition to using the GitHub, Rutgers University (edX), and Jupyter Notebook 
 
 The author also consulted code and results from similar projects publicly accessible in [GitHub](https://github.com/) repositories and recoverable through [Google](https://www.google.com/) and comparable search engines:
 
-- [Abdelrahman, Ahmed](https://www.linkedin.com/in/ahmadhha/): Mississauga, Ontariq, Canada, January 2023. [scraping_and_analysis-challenge](https://github.com/Ahmadhha/scraping_and_analysis-challenge)
+- [Abdelrahman, Ahmed](https://www.linkedin.com/in/ahmadhha/): Mississauga, Ontario, Canada, January 2023. [scraping_and_analysis-challenge](https://github.com/Ahmadhha/scraping_and_analysis-challenge)
 - [Guturi, Bharat](www.linkedin.com/in/bharat-guturi): Perth, Western Australia, Australia, February 2023. [Mars-weather-data-scraping-and-analysis](https://github.com/BharatGuturi/Mars-weather-data-scraping-and-analysis)
 
 ### 5. LICENSES
