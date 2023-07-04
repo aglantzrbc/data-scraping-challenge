@@ -66,18 +66,18 @@ After the column data types were cast into correct categories, the following que
 
 **Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
-4. *What is the average pressure per Martian monhth* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
+4. *What is the average atmospheric pressure per Martian monhth* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/12808553-d308-4606-9187-0c0c79b50053)
 
 **Table 5** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
 
-- *The month with the lowest average surface pressure on Mars is: month 6 (745.054422 Pascals)*
-- *The month with the highest average surface pressure on Mars is: month 9 (913.305970 Pascals)*
+- *The month with the lowest average atmospheri pressure on Mars is: month 6 (745.054422 Pascals)*
+- *The month with the highest average atmospheric pressure on Mars is: month 9 (913.305970 Pascals)*
 
 ![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/4bfd6f1e-3f25-4bc9-8671-eb75a1878f47)
 
-**Figure 5** | *Months corresponding to the minimum and maximum pressure on Mars in Pascals, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 5** | *Months corresponding to the minimum and maximum atmospheric pressure on Mars in Pascals, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
 ### 2. INSTALLATION
 
