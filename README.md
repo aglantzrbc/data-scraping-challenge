@@ -57,14 +57,14 @@ After the column data types were cast into correct categories, the following que
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 4** | *Average minimum temperature on Mars per month in Celsius*
+**Table 4** | *Average minimum temperature on Mars per month in Celsius, as measured by the NASA roller* Curiosity
 
 - *The coldest month on Mars is: month 3 (-83.307292 Celsius)*
 - *The hottest month on Mars is: month 8 (-68.382979 Celsius)*
 
 ![mars_temp_extremes_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/3bf8f117-9d22-4cd7-a0f2-ca6351c2ea26)
 
-**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, with the extremes annotated*
+**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, as measured by the NASA roller* Curiosity, *with the extremes annotated*
 
 ### 2. INSTALLATION
 
