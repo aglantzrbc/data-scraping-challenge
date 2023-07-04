@@ -43,8 +43,6 @@ Definitions of the column headers are in **Figure 2** and a sampling of the Data
 
 **Table 2** | *Sampling of the resulting DataFrame of values for each column header*
 
-![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/790a7d01-5372-4e02-9e24-300518588575)
-
 After the column data types were cast into correct categories, the following questions werre addressed:
 
 1. *How many months are there on Mars?* **Answer: 12 months**. See **Figure 3**, below.
