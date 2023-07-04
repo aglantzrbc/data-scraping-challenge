@@ -41,36 +41,19 @@ Definitions of the column headers are in **Figure 2** and a sampling of the Data
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/5048eaac-cfd1-446a-aebe-6886f6ab6bc8)
 
-**Table 2** | *Sampling of the resulting DataFrame of values for each column heade*
+**Table 2** | *Sampling of the resulting DataFrame of values for each column header*
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/790a7d01-5372-4e02-9e24-300518588575)
 
-**_Though establishing the "Measurement" and "Station" variable names in all lower case (i.e., "measurement" and "station") is ideal, the author didn't do this for the following reasons:_**
+After the column data types were cast into correct categories, the following questions werre addressed:
 
-1. Keeping the "Station" variable upper-lower case prevents confusion with the function "station" and the attribute "Station.station", which occur toward the end of the Python code.
-2. Keeping the "Measurement" variable upper-lower maintains consistency with the concurrent "Station" variable, described above.
-3. It should be noted that the "Base" variable assigned with "automap_base()" was also kept in upper-lower case, because this is what the SQLAlchemy automap function expects.
+1. *How many months are there on Mars?* **Answer: 12 months**. See **Figure 3**, below.
 
-The following **static API** routes were created besides the [welcome ("/") route](http://localhost:5000/).
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/ed7ff136-b210-4a9e-8c4e-0109a3d50f0d)
 
-- [Precipitation route](http://localhost:5000/api/v1.0/precipitation)
+**Figure 3** | *Counts of Martian days (sols) by month, with the answer to the first question noted at the bottom*
 
-*This provides a JSON list of the last 12 months worth of precipitation data, using the date and precipitation volume keys.*
-
-- [Stations route](http://localhost:5000/api/v1.0/stations)
-
-*This provides a JSON list of the nine weather stations with sequence ID and station ID keys.*
-
-- [Tobs route](http://localhost:5000/api/v1.0/tobs)
-
-*This provides a JSON list of the last 12 months worth of temperature observations (tobs) data from the most active station, using the tobs value and date keys.*
-
-A **dynamic API** route was also set up.
-
-- Start-End route
-
-*This is set up with the decoration "/api/v1.0/**[start]**/**[end]**", where [start] and [end] are to be replaced with start and end dates using the format: **YYYY-mm-dd**/**YYYY-mm-dd**.* Example using the author's default port: http://localhost:5000/api/v1.0/2016-08-23/2017-08-23. Date ranges outside the scope of actual dates occurring in the dataset will default to the earliest and latest dates in the data.
-*If only one date is provided, the output will calculate from that date through the latest record in the dataset.*
+3. 
 
 ### 2. INSTALLATION
 
