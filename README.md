@@ -72,8 +72,8 @@ After the column data types were cast into correct categories, the following que
 
 **Table 5** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
 
-- *The month with the highest average surface pressure on Mars is: month 3 (913.305970 Pascals)*
-- *The month with the lowest average surface pressure on Mars is: month 8 (745.054422 Pascals)*
+- *The month with the lowest average surface pressure on Mars is: month 6 (745.054422 Pascals)*
+- *The month with the highest average surface pressure on Mars is: month 9 (913.305970 Pascals)*
 
 ![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/4bfd6f1e-3f25-4bc9-8671-eb75a1878f47)
 
