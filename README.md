@@ -57,7 +57,7 @@ After the column data types were cast into correct categories, the following que
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 4** | *Average temperature on Mars per months in Celsius*
+**Table 4** | *Average temperature on Mars per month in Celsius*
 
 ### 2. INSTALLATION
 
