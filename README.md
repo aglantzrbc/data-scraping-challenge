@@ -62,7 +62,7 @@ After the column data types were cast into correct categories, the following que
 - *The coldest month on Mars is: month 3*
 - *The hottest month on Mars is: month 8*
 
-![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/0b45b4a3-4608-423b-a75a-5d7d271d9440)
+![mars_average_temp_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/e874566c-fd89-44f2-b4ce-70826347e2de)
 
 **Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, with the extremes annotated*
 
