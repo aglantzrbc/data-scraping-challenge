@@ -53,11 +53,18 @@ After the column data types were cast into correct categories, the following que
 
 2. *How many sols worth of data are there?* **Answer: 1867 sols**. This was obtained by a simple count of the number of sols in the dataset.
    
-3. *What is the average low temperature by month?* See **Table 4**, below. Temperature measurements are in Celsius.
+3. *What is the average low temperature by month?* See **Table 4** and **Figure 4**, below. Temperature measurements are in Celsius.
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 4** | *Average temperature on Mars per month in Celsius*
+**Table 4** | *Average minimum temperature on Mars per month in Celsius*
+
+*The coldest month on Mars is: month 3*
+*The hottest month on Mars is: month 8*
+
+![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/0b45b4a3-4608-423b-a75a-5d7d271d9440)
+
+**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, with the extremes annotated*
 
 ### 2. INSTALLATION
 
