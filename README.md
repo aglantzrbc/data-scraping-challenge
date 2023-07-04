@@ -83,9 +83,10 @@ After the column data types were cast into correct categories, the following que
 
 This questions was answered using three different inputs:
 
-- Using 24 hours as the typical duration a a terrestrial day, the code iteratively sums the number of sols, then divides the total by 24. **The number of terrestrial days in a Martian year according to this process: _694.291667_.** This is considerably higher than what the author found through other means, but still within a +/- 25% range.
-- As noted in the code comments as derived from an internet search, **the number of terrestrial days in a Martian year according to NASA (which launched the *Curiosity* rover) is: _687_.**
 - The author's estimate from the highest minimum temperature data points from a full seasonal cycle in the middle of the **Figure 6** plot is: **1,375 - 700 = _675_ terrestrial days in a Martian year.** This is a match for what's indicated in the code comments.
+- As noted in the code comments as derived from an internet search, **the number of terrestrial days in a Martian year according to NASA (which launched the *Curiosity* rover) is: _687_.**
+- Using 24 hours as the typical duration a a terrestrial day, the code iteratively sums the number of sols, then divides the total by 24. **The number of terrestrial days in a Martian year according to this process: _694.291667_.** This is considerably higher than what the author found through other means, but still within a +/- 25% range.
+
 
 ![mars_days_in_terrestrial_year](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c28c146d-3955-4aac-9be9-2fe9ff621095)
 
