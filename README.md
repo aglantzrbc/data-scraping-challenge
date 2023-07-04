@@ -57,27 +57,39 @@ After the column data types were cast into correct categories, the following que
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 2** | *Average minimum temperature on Mars per month in Celsius, as measured on the surface by the NASA roller* Curiosity
+**Table 2** | *Average minimum temperature on Mars per month in Celsius, as measured on the surface by the NASA rover* Curiosity
 
 - *The coldest month on Mars is: month 3 (-83.307292 Celsius)*
 - *The hottest month on Mars is: month 8 (-68.382979 Celsius)*
 
 ![mars_temp_extremes_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/3bf8f117-9d22-4cd7-a0f2-ca6351c2ea26)
 
-**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA rover* Curiosity, *with the extremes annotated*
 
 4. *What is the average atmospheric pressure per Martian month?* See **Table 3** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/12808553-d308-4606-9187-0c0c79b50053)
 
-**Table 3** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
+**Table 3** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA rover* Curiosity
 
 - *The month with the lowest average atmospheri pressure on Mars is: month 6 (745.054422 Pascals)*
 - *The month with the highest average atmospheric pressure on Mars is: month 9 (913.305970 Pascals)*
 
 ![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/4bfd6f1e-3f25-4bc9-8671-eb75a1878f47)
 
-**Figure 5** | *Months corresponding to the minimum and maximum atmospheric pressure on Mars in Pascals, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 5** | *Months corresponding to the minimum and maximum atmospheric pressure on Mars in Pascals, as measured on the surface by the NASA rover* Curiosity, *with the extremes annotated*
+
+5. *How many terrestrial (earth) days are there in a Martian year?* See **Figure 6**, below.
+
+This questions was answered using three different inputs:
+
+- Using 24 hours as the typical duration a a terrestrial day, the code iteratively sums the number of sols, then divides the total by 24. **The number of terrestrial days in a Martian year according to this process: _694.291667_.** This is considerably higher than what the author found through other means, but still within a +/- 25% range.
+- As noted in the code comments as the result of an internet search, **the number of terrestrial days in a Martian year according to NASA (which launched the *Curiosity* rover) is: _687_.**
+- The author's estimate from the highest minimum temperature data points from a full seasonal cycle in the middle of the **Figure 6** plot is: **1,350 - 700 = _650_ terrestrial days in a Martian year.** This is a little lower than what's indicated in the code comments, but still within a +/- 25% range.
+
+![mars_days_in_terrestrial_year](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c28c146d-3955-4aac-9be9-2fe9ff621095)
+
+**Figure 6** | *The number of terrestrial days vs. the minimum surface temperature in Celsius on Mars, as measured on the surface by the NASA rover* Curiosity, *with seasonal high temperature points in the middle of the plot noted*
 
 ### 2. INSTALLATION
 
