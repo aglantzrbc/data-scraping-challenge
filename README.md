@@ -53,18 +53,31 @@ After the column data types were cast into correct categories, the following que
 
 2. *How many sols worth of data are there?* **Answer: 1867 sols**. This was obtained by a simple count of the number of sols in the dataset.
    
-3. *What is the average low temperature by month?* See **Table 4** and **Figure 4**, below. Temperature measurements are in Celsius.
+3. *What is the average low temperature by month?* See **Table 4** and **Figure 4**, below. Temperature measurements are in Celsius (C).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 4** | *Average minimum temperature on Mars per month in Celsius, as measured by the NASA roller* Curiosity
+**Table 4** | *Average minimum temperature on Mars per month in Celsius, as measured on the surface by the NASA roller* Curiosity
 
 - *The coldest month on Mars is: month 3 (-83.307292 Celsius)*
 - *The hottest month on Mars is: month 8 (-68.382979 Celsius)*
 
 ![mars_temp_extremes_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/3bf8f117-9d22-4cd7-a0f2-ca6351c2ea26)
 
-**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, as measured by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+
+4. *What is the average pressure per Martian monhth* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
+
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/12808553-d308-4606-9187-0c0c79b50053)
+
+**Table 5** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
+
+- *The month with the highest average surface pressure on Mars is: month 3 (913.305970 Pascals)*
+- *The month with the lowest average surface pressure on Mars is: month 8 (745.054422 Pascals)*
+
+![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/4bfd6f1e-3f25-4bc9-8671-eb75a1878f47)
+
+**Figure 5** | *Months corresponding to the minimum and maximum pressure on Mars, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
 ### 2. INSTALLATION
 
