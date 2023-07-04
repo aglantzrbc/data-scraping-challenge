@@ -64,7 +64,7 @@ After the column data types were cast into correct categories, the following que
 
 ![mars_temp_extremes_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/3bf8f117-9d22-4cd7-a0f2-ca6351c2ea26)
 
-**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
 4. *What is the average pressure per Martian monhth* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
 
@@ -77,7 +77,7 @@ After the column data types were cast into correct categories, the following que
 
 ![mars_average_pressure_by_month](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/4bfd6f1e-3f25-4bc9-8671-eb75a1878f47)
 
-**Figure 5** | *Months corresponding to the minimum and maximum pressure on Mars, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
+**Figure 5** | *Months corresponding to the minimum and maximum pressure on Mars in Pascals, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
 ### 2. INSTALLATION
 
