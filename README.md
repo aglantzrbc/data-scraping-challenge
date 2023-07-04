@@ -41,7 +41,7 @@ Definitions of the column headers are in **Figure 2** and a sampling of the Data
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/5048eaac-cfd1-446a-aebe-6886f6ab6bc8)
 
-**Table 2** | *Sampling of the resulting DataFrame of values for each column header*
+**Table 1** | *Sampling of the resulting DataFrame of values for each column header*
 
 After the column data types were cast into correct categories, the following questions werre addressed:
 
@@ -49,15 +49,15 @@ After the column data types were cast into correct categories, the following que
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/ed7ff136-b210-4a9e-8c4e-0109a3d50f0d)
 
-**Table 3** | *Counts of Martian days (sols) by month, with the answer to the first question highlighted at the bottom*
+**Figure 3** | *Counts of Martian days (sols) by month, with the answer to the first question highlighted at the bottom*
 
 2. *How many sols worth of data are there?* **Answer: 1867 sols**. This was obtained by a simple count of the number of sols in the dataset.
    
-3. *What is the average low temperature by month?* See **Table 4** and **Figure 4**, below. Temperature measurements are in Celsius (C).
+3. *What is the average low temperature by month?* See **Table 2** and **Figure 4**, below. Temperature measurements are in Celsius (C).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/c990b4d3-9295-486e-b30f-ada6772aed88)
 
-**Table 4** | *Average minimum temperature on Mars per month in Celsius, as measured on the surface by the NASA roller* Curiosity
+**Table 2** | *Average minimum temperature on Mars per month in Celsius, as measured on the surface by the NASA roller* Curiosity
 
 - *The coldest month on Mars is: month 3 (-83.307292 Celsius)*
 - *The hottest month on Mars is: month 8 (-68.382979 Celsius)*
@@ -66,11 +66,11 @@ After the column data types were cast into correct categories, the following que
 
 **Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
-4. *What is the average atmospheric pressure per Martian month?* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
+4. *What is the average atmospheric pressure per Martian month?* See **Table 3** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/12808553-d308-4606-9187-0c0c79b50053)
 
-**Table 5** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
+**Table 3** | *Average pressure on Mars per month in Pascals, as measured on the surface by the NASA roller* Curiosity
 
 - *The month with the lowest average atmospheri pressure on Mars is: month 6 (745.054422 Pascals)*
 - *The month with the highest average atmospheric pressure on Mars is: month 9 (913.305970 Pascals)*
