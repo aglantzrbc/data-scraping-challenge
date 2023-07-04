@@ -66,7 +66,7 @@ After the column data types were cast into correct categories, the following que
 
 **Figure 4** | *Months corresponding to the minimum and maximum temperatures on Mars in Celsius, as measured on the surface by the NASA roller* Curiosity, *with the extremes annotated*
 
-4. *What is the average atmospheric pressure per Martian monhth* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
+4. *What is the average atmospheric pressure per Martian month?* See **Table 5** and **Figure 5**, below. Pressure measurements are in Pascals (Pa).
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/12808553-d308-4606-9187-0c0c79b50053)
 
