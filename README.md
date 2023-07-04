@@ -6,7 +6,7 @@ Glantz Adam Bootcamp RUT-VIRT-DATA-PT-04-2023-U-LOLC-MWTH - Module 11 Data Scrap
 ## TABLE OF CONTENTS
 
 1. Project Description
-   - Task: Scrape Titles and Preview Text from Mars News
+   - Task: Scrape Titles and Preview Text from *Mars News*
    - Task: Scrape and Analyze Mars Weather Data
 2. Installation
 3. Contributing
@@ -97,8 +97,8 @@ This questions was answered using three different inputs:
 
 ### 2. INSTALLATION
 
-- Climate data analysis and exploration file: **sqlalchemy-challenge_climate.ipynb**
-- Climate app file: **sqlalchemy-challenge_app.py**
+- The file for the *Scrape Titles and Preview Text from* Mars News task: **part_1_mars_news.ipynb**
+- The file for the *Scrape and Analyze Mars Weather Data* task: **part_2_mars_weather.ipynb**
 
 - The [GitHub repository](https://github.com/aglantzrbc/sqlalchemy-challenge) containing all project files is publicly accessible.
 - The assignment details and starter code are proprietary and located on the [Rutgers University](https://www.rutgers.edu/) ([edX](https://www.edx.org/)) Bootcamp Spot [Module 10 SQLAlchemy Challenge](https://courses.bootcampspot.com/courses/3337/assignments/54000?module_item_id=961336) page.
