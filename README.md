@@ -91,7 +91,7 @@ This questions was answered using three different inputs:
 
 **Figure 6** | *The number of terrestrial days vs. the minimum surface temperature in Celsius on Mars, as measured on the surface by the NASA rover* Curiosity, *with seasonal high temperature points in the middle of the plot noted*
 
-![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/94606690-1a20-4e98-b12d-9c0bb4b1dbb5)
+![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/eacb0116-c824-475d-bfe9-4cf560e925df)
 
 **Figure 7** | *Code comments from the assignment instructions, for comparison with the author's findings*
 
