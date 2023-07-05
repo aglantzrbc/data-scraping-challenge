@@ -94,7 +94,7 @@ This questions was answered using three different inputs:
 
 ![image](https://github.com/aglantzrbc/data-scraping-challenge/assets/127694342/eacb0116-c824-475d-bfe9-4cf560e925df)
 
-**Figure 7** | *Code comments from the assignment instructions, for comparison with the author's findings*
+**Figure 7** | *Code comments from the assignment instructions, for comparison with the author's findings, with the internet search finding highlighted*
 
 ### 2. INSTALLATION
 
