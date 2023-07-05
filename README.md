@@ -51,7 +51,7 @@ After the column data types were cast into correct categories, the following que
 
 **Figure 3** | *Counts of Martian days (sols) by month, with the answer to the first question highlighted at the bottom*
 
-2. *How many sols worth of data are there?* **Answer: 1867 sols**. This was obtained by a simple count of the number of sols in the dataset.
+2. *How many sols worth of data are there?* **Answer: 1867 sols**. This datum was obtained by a simple count of the number of rows in the dataset.
    
 3. *What is the average low temperature by month?* See **Table 2** and **Figure 4**, below. Temperature measurements are in Celsius (C).
 
