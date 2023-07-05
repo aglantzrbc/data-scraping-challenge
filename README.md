@@ -112,7 +112,7 @@ This questions was answered using three different inputs:
 
 ### 4. ACKNOWLEDGEMENTS
 
-In addition to using the GitHub, Rutgers University (edX), and Jupyter Notebook resources listed above, the author acquired query responses in OpenAI's [ChatGPT](https://chat.openai.com/) platform and the [VSCode GitHub Copilot](https://github.com/features/copilot) app.
+In addition to using the GitHub, Rutgers University (edX), and Jupyter Notebook resources listed above, the author acquired query responses in OpenAI's [ChatGPT](https://chat.openai.com/) 3.5 platform and the [VSCode GitHub Copilot](https://github.com/features/copilot) app.
 
 The author also consulted code and results from similar projects publicly accessible in [GitHub](https://github.com/) repositories and recoverable through [Google](https://www.google.com/) and comparable search engines:
 
